@@ -1,12 +1,12 @@
-#Swing-Game-WastDump
+# Swing-Game-WastDump
 
-´ó¶şÉÏÑ§ÆÚ£¬Ñ§Ï°unity 3d µÄÊ±ºò·¢ÏÖÁËÒ»¸ö·Ç³£°ôµÄ2DÓÎÏ·ÏîÄ¿£¬ÎÒÇé²»×Ô½ûµÄ°ÑËü×ö³ÉÁËJAVA°æswingĞ¡ÓÎÏ·¡£ÎÒËùÓÃµÄ¿ª·¢¹¤¾ßÊÇNetbeans 7.4 Õû¸öÓÎÏ·µÄUI½çÃæÊÇÓÉÎÒÒ»¸öÈË¶ÀÁ¢Íê³É£¬Ëù²ÉÓÃµÄ×ÖÌåÊÇÀ´Ô´ÓÚÕ¾³¤Ö®¼ÒµÄÏñËØ×ÖÌå£¬¿´ÆğÀ´²»´í£¬ÖÁÉÙÔÚÓÎÏ·ÖĞÃ»ÓĞ²»¼æÈİµÄ×ÖÌå¡£Ô¤ÀÀĞ§¹û¼ûShowViewÎÄ¼ş¼Ğ¡£
+å¤§äºŒä¸Šå­¦æœŸï¼Œå­¦ä¹ unity 3d çš„æ—¶å€™å‘ç°äº†ä¸€ä¸ªéå¸¸æ£’çš„2Dæ¸¸æˆé¡¹ç›®ï¼Œæˆ‘æƒ…ä¸è‡ªç¦çš„æŠŠå®ƒåšæˆäº†JAVAç‰ˆswingå°æ¸¸æˆã€‚æˆ‘æ‰€ç”¨çš„å¼€å‘å·¥å…·æ˜¯Netbeans 7.4 æ•´ä¸ªæ¸¸æˆçš„UIç•Œé¢æ˜¯ç”±æˆ‘ä¸€ä¸ªäººç‹¬ç«‹å®Œæˆï¼Œæ‰€é‡‡ç”¨çš„å­—ä½“æ˜¯æ¥æºäºç«™é•¿ä¹‹å®¶çš„åƒç´ å­—ä½“ï¼Œçœ‹èµ·æ¥ä¸é”™ï¼Œè‡³å°‘åœ¨æ¸¸æˆä¸­æ²¡æœ‰ä¸å…¼å®¹çš„å­—ä½“ã€‚é¢„è§ˆæ•ˆæœè§ShowViewæ–‡ä»¶å¤¹ã€‚
 
-´ËÓÎÏ·µÄËØ²Ä¼°Íæ·¨À´Ô´ÓÚ unity ×ÊÔ´ÉÌµêÉÏµÄÒ»¸öÃâ·Ñ¿ªÔ´ÏîÄ¿ 2D Roguelike:
+æ­¤æ¸¸æˆçš„ç´ æåŠç©æ³•æ¥æºäº unity èµ„æºå•†åº—ä¸Šçš„ä¸€ä¸ªå…è´¹å¼€æºé¡¹ç›® 2D Roguelike:
 
 https://www.assetstore.unity3d.com/en/#!/content/29825
 
-ÕâÊÇÕâ¸öÏîÄ¿µÄ½éÉÜ:
+è¿™æ˜¯è¿™ä¸ªé¡¹ç›®çš„ä»‹ç»:
 
 Learn how to make a 2D Roguelike game with this project. Over the course of the project will create procedural tile based levels, implement turn based movement, add a hunger system, audio and mobile touch controls. This video series was filmed in Unity 5, but is compatible with Unity 4.6 as well.
 
@@ -18,7 +18,7 @@ Sophomore semester, learning unity 3D found a very good 2D game project, I can n
 
 Netbeans 7.4 the entire game UI interface is completed by me a person, the font used is from the home of the pixel font, looks good, at least in the game is  not incompatible
 
-Typeface¡£
+Typefaceã€‚
 
 The game's material and gameplay comes from a free project unity resource store 2D Roguelike
 
