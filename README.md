@@ -22,7 +22,7 @@ Typeface。
 
 The game's material and gameplay comes from a free project unity resource store 2D Roguelike
 
-Https://www.assetstore.unity3d.com/en/#! /content/29825
+Https://www.assetstore.unity3d.com/en/#!/content/29825
 
 This is an introduction to the project:
 
